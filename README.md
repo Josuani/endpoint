@@ -1,3 +1,3 @@
 # endpoint
 
-Creacion de enpoint capaz de subir a Empleados 
+Creacion de endpoint capaz de subir a Empleados 
